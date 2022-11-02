@@ -1,14 +1,4 @@
-{\rtf1\ansi\ansicpg949\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;\f1\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 \'c7\'d1\'bc\'ba\'b4\'eb\'c7\'d0\'b1\'b3
-\f1 \
-
-\f0 \'c4\'c4\'c7\'bb\'c5\'cd\'b0\'f8\'c7\'d0\'ba\'ce
-\f1 \
-
-\f0 \'b3\'aa\'b1\'e2\'b8\'ae}
+한성대학교
+컴퓨터공학부
+나기리
+서울특별시 성북구 삼선동
